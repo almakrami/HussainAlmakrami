@@ -1,7 +1,4 @@
 # Hello I'm Hussain Almakrami 👋
-
-===============================
-
 A Software Engineering Student at KFUPM
 
 ---
@@ -30,8 +27,8 @@ I have started journey with Java and learned the core Concept of OOP, then I lea
 ### Social
 
 <p align="left"> 
-<a href="https://discord.com/users/Hussain#4196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/almakrami" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/hussain-ibrahim-859a441b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  <a href="https://www.twitter.com/7ussx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ <a href="https://discord.com/users/Hussain#4196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
  </p>
