@@ -4,7 +4,7 @@ A Software Engineering Student at KFUPM
 
 ---
 
-I have started journey with Java and learned the core Concept of OOP, then I learned the Web development using HTMLL, CSS, JavaScript and node.js and did some projects. Now I'm moving to Mobile application development with Flutter & Dart.
+I started my journey with Java and learned the core Concept of OOP, then I learned Web development using HTML, CSS, JavaScript and node.js and did some projects. Now I'm moving to Mobile application development with Flutter & Dart.
 
 - I'm based in Dammam 🌍
 - You can reach me at [almakrami.hu@gmail.com](mailto:almakrami.hu@gmail.com) ✉️
